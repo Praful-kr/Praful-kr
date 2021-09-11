@@ -2,6 +2,9 @@
 - 👀 I’m interested in coding and development
 - 🌱 I’m currently pursuing MTech at NITK, Surathkal.
 - 📫 How to reach me praful.gbs@gmail.com
+![](https://komarev.com/ghpvc/?username=Praful-kr)
+
+
 
 <!---
 Praful-kr/Praful-kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
