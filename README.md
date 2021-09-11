@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and development
 - 🌱 I’m currently pursuing MTech at NITK, Surathkal.
 - 📫 How to reach me praful.gbs@gmail.com
-![](https://komarev.com/ghpvc/?username=Praful-kr)
+- ![](https://komarev.com/ghpvc/?username=Praful-kr)
 
 
 
