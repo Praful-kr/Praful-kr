@@ -12,7 +12,7 @@
     - Snowflake Certification of Achievement
  - 🌱 I’m currently contributing to data engineering projects at Mercedes Benz RD India.
  - 👀 Interests: Coding, Data Engineering, Cloud Solutions, and solving real-world data challenges.
- - 📫 How to reach me: praful.gbs@gmail.com | LinkedIn
+ - 📫 **How to reach me**: [praful.gbs@gmail.com](mailto:praful.gbs@gmail.com) | [LinkedIn](https://www.linkedin.com/in/praful-kumar-76238469)
 - ![](https://komarev.com/ghpvc/?username=Praful-kr&color=brightgreen)
 <!---
 Praful-kr/Praful-kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
